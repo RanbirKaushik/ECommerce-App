@@ -1,0 +1,8 @@
+package com.example.shoppingself.fragments.shopping
+
+import androidx.fragment.app.Fragment
+import com.example.shoppingself.R
+
+class SearchFragment : Fragment(R.layout.fragment_search){
+
+}
